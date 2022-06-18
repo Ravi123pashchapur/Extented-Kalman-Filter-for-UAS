@@ -24,6 +24,7 @@
 
 *** Performance Matrix ***
 --------------------------------------
+---> Isotropic
 
 ![fig1](https://user-images.githubusercontent.com/56997905/174435507-443488e9-3bdc-4f12-9343-2f272b0bc8f7.jpg)
 ![fig2](https://user-images.githubusercontent.com/56997905/174435509-8b5bc5e7-c05f-436e-9ade-14247ee692eb.jpg)
@@ -31,3 +32,6 @@
 ![fig4](https://user-images.githubusercontent.com/56997905/174435511-48c03fb4-9a03-438c-88be-b84a3b567e8a.jpg)
 ![fig5](https://user-images.githubusercontent.com/56997905/174435512-1d4ecce1-4e72-4dae-a959-e8f7c9012c5b.jpg)
 ![fig6](https://user-images.githubusercontent.com/56997905/174435513-b2c6ab6b-91e9-4c2f-839e-a68ac3d72ea2.jpg)
+
+
+
